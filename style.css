@@ -159,10 +159,10 @@ input {
 }
 
 .contactimg {
-    width: 45vw;
-    height: 60vh;
-    border-bottom-left-radius: 1vh;
-    border-top-left-radius: 1vh;
+    width: 800px; 
+    height: 550px;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px; 
 }
 
 button {
