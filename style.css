@@ -135,6 +135,7 @@ p {
 .tarjeta_contacto {
     background-color: #272626;
     width: 500px;
+    height: 50vh;
     border-bottom-right-radius: 10px;
     border-top-right-radius: 10px; 
     padding: 50px;
