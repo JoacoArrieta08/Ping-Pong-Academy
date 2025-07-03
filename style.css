@@ -124,19 +124,20 @@ p {
     transform: scale(1.1);
 }
 
-.contacto {
+.contacto{
     display: flex;
     flex-direction: row;
     justify-content: center;
-    padding: 15vh 0;
+    padding-top: 200px;
+    padding-bottom: 200px;
 }
 
 .tarjeta_contacto {
     background-color: #272626;
-    width: 30vw;
-    border-bottom-right-radius: 1vh;
-    border-top-right-radius: 1vh;
-    padding: 5vh 3vw;
+    width: 500px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px; 
+    padding: 50px;
     display: flex;
     flex-direction: column;
     justify-content: center;
